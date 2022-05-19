@@ -1,5 +1,20 @@
 # blog-app
 
+
+## Project Description
+```
+This is an Blog Application that you can access the articles and also add a new article
+```
+
+
+
+## Project Deployment
+```
+https://vue-blogg-app.herokuapp.com/
+```
+
+
+
 ## Project setup
 ```
 npm install
